@@ -28,7 +28,7 @@
 ## 📥 Установка
 
 1. Перейдите во вкладку [**Releases**](https://github.com/MaxExteraPlugins/status_adder/releases/latest).
-2. Скачайте файл плагина `status_adder_v1.9.0.plugin`.
+2. Скачайте файл плагина `status_adder_v1.9.1.plugin`.
 3. Отправьте файл в Telegram (в «Избранное») или откройте его через проводник в exteraGram / AyuGram.
 4. Нажмите на сообщение с плагином и выберите **«Установить плагин»**.
 
